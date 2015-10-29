@@ -1,0 +1,2 @@
+# PracticaFourier
+PRACTICA 2
